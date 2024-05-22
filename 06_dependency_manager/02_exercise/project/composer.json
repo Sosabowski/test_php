@@ -1,0 +1,23 @@
+{
+    "name": "wiktorsalwa/project",
+    "description": "Project",
+    "type": "project",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Wiktor Salwa",
+            "email": "wiktorsalwa@student.agh.edu.pl"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=8.3",
+        "predis/predis": "^2.2",
+        "symfony/yaml": "^7.0"
+    }
+}

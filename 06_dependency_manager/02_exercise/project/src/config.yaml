@@ -1,0 +1,12 @@
+- class: Link
+  key: 1
+- class: Link
+  key: 2
+- class: Link
+  key: 3
+- class: Button
+  key: 1
+- class: Button
+  key: 2
+- class: Button
+  key: 3
